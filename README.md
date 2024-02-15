@@ -1,8 +1,5 @@
-# scons-dfu
+# scons-dfu 📥
 A SCons tool for creating DFU files.
-
-## Tools
-You can specific tool with the following:
 
 ## How to use
 
